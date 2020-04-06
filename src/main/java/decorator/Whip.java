@@ -2,7 +2,7 @@ package decorator;
 
 /**
  * author yg
- * description
+ * description 奶油
  * date 2020/4/6
  */
 public class Whip extends CondimentDecorator{
